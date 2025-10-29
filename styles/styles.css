@@ -186,6 +186,7 @@ button {
   display: inline-block;
   max-width: 100%;
   margin: 12px 0;
+  margin-left: 3%;
   border: 2px solid transparent;
   padding: 8px 12px;
   font-family: var(--body-font-family);
